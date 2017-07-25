@@ -1,18 +1,26 @@
 
 * {
 	background-color: black;
+	text-align: center;
 }
 
-h1 {
+h1, h5 {
 	color: white;
-	text-align: center;
+}
+
+h4 {
+	color: gray;
 }
 
 p {
 	color: red;
-	text-align: center;
 }
 
 .links {
 	color: teal;
 }
+
+.footer {
+	padding-top: 20px;
+}
+
